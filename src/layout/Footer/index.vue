@@ -1,6 +1,6 @@
 <template>
   <div class="footer-layout">
-    <span href="/" target="_blank"> 2022 ©ADMIN- VUE3-TS-VITE By ZB Technology. </span>
+    <span href="/" target="_blank"> 2023 ©ADMIN-VUE3-TS-VITE By LiFangdan. </span>
   </div>
 </template>
 
