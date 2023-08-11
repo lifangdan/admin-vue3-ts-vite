@@ -17,5 +17,7 @@ module.exports = {
     sourceType: 'module',
   },
   plugins: ['vue', '@typescript-eslint'],
-  rules: {},
+  rules: {
+    '@typescript-eslint/no-inferrable-types': 'off', //关闭ts类型推断
+  },
 }
